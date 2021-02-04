@@ -1,0 +1,222 @@
+{
+  "contrats": [
+    {
+      "A": [
+        {
+          "soin": 0,
+          "categorie": "Massothérapie",
+          "remboursement": 0.25,
+          "max": 0
+        },
+        {
+          "soin": 100,
+          "categorie": "Ostéopathie",
+          "remboursement": 0.25,
+          "max": 0
+        },
+        {
+          "soin": 200,
+          "categorie": "Psychologie individuelle",
+          "remboursement": 0.25,
+          "max": 0
+        },
+        {
+          "soin": [300,399],
+          "categorie": "Soins dentaires",
+          "remboursement": 0,
+          "max": 0
+        },
+        {
+          "soin": [400],
+          "categorie": "Naturopathie, acuponcture",
+          "remboursement": 0,
+          "max": 0
+        },
+        {
+          "soin": [500],
+          "categorie": "Chiropratie",
+          "remboursement": 0,
+          "max": 0
+        },
+        {
+          "soin": [600],
+          "categorie": "Physiothérapie",
+          "remboursement": 0.40,
+          "max": 0
+        },
+        {
+          "soin": [700],
+          "categorie": "Orthophonie, ergothérapie",
+          "remboursement": 0,
+          "max": 0
+        }
+      ]
+    },
+    {
+    "B": [
+      {
+        "soin": 0,
+        "categorie": "Massothérapie",
+        "remboursement": 0.50,
+        "max": 40
+      },
+      {
+        "soin": 100,
+        "categorie": "Ostéopathie",
+        "remboursement": 0.50,
+        "max": 50
+      },
+      {
+        "soin": 200,
+        "categorie": "Psychologie individuelle",
+        "remboursement": 0.100,
+        "max": 70
+      },
+      {
+        "soin": [300,399],
+        "categorie": "Soins dentaires",
+        "remboursement": 0.50,
+        "max": 0
+      },
+      {
+        "soin": [400],
+        "categorie": "Naturopathie, acuponcture",
+        "remboursement": 0,
+        "max": 0
+      },
+      {
+        "soin": [500],
+        "categorie": "Chiropratie",
+        "remboursement": 0.50,
+        "max": 50
+      },
+      {
+        "soin": [600],
+        "categorie": "Physiothérapie",
+        "remboursement": 100,
+        "max": 0
+      },
+      {
+        "soin": [700],
+        "categorie": "Orthophonie, ergothérapie",
+        "remboursement": 0.70,
+        "max": 0
+      }
+    ]
+    },
+    {
+      "C": [
+        {
+          "soin": 0,
+          "categorie": "Massothérapie",
+          "remboursement": 0.90,
+          "max": 0
+
+        },
+        {
+          "soin": 100,
+          "categorie": "Ostéopathie",
+          "remboursement": 0.90,
+          "max": 0
+
+        },
+        {
+          "soin": 200,
+          "categorie": "Psychologie individuelle",
+          "remboursement": 0.90,
+          "max": 0
+
+        },
+        {
+          "soin": [300,399],
+          "categorie": "Soins dentaires",
+          "remboursement": 0.90,
+          "max": 0
+        },
+        {
+          "soin": [400],
+          "categorie": "Naturopathie, acuponcture",
+          "remboursement": 0.90,
+          "max": 0
+        },
+        {
+          "soin": [500],
+          "categorie": "Chiropratie",
+          "remboursement": 0.90,
+          "max": 0
+
+        },
+        {
+          "soin": [600],
+          "categorie": "Physiothérapie",
+          "remboursement": 0.90,
+          "max": 0
+        },
+        {
+          "soin": [700],
+          "categorie": "Orthophonie, ergothérapie",
+          "remboursement": 0.90,
+          "max": 0
+        }
+      ]
+    },
+    {
+      "D": [
+        {
+          "soin": 0,
+          "categorie": "Massothérapie",
+          "remboursement": 100,
+          "max": 85
+
+        },
+        {
+          "soin": 100,
+          "categorie": "Ostéopathie",
+          "remboursement": 100,
+          "max": 75
+
+        },
+        {
+          "soin": 200,
+          "categorie": "Psychologie individuelle",
+          "remboursement": 100,
+          "max": 100
+
+        },
+        {
+          "soin": [300,399],
+          "categorie": "Soins dentaires",
+          "remboursement": 100,
+          "max": 0
+        },
+        {
+          "soin": [400],
+          "categorie": "Naturopathie, acuponcture",
+          "remboursement": 100,
+          "max": 65
+        },
+        {
+          "soin": [500],
+          "categorie": "Chiropratie",
+          "remboursement": 100,
+          "max": 75
+
+        },
+        {
+          "soin": [600],
+          "categorie": "Physiothérapie",
+          "remboursement": 100,
+          "max": 100
+        },
+        {
+          "soin": [700],
+          "categorie": "Orthophonie, ergothérapie",
+          "remboursement": 100,
+          "max": 90
+        }
+      ]
+    }
+  ]
+}
+
+

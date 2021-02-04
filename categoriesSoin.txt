@@ -1,0 +1,12 @@
+Il existe 4 types de contrat différents : A, B, C, D. Voici les différentes catégories de soin en fonction
+de leur numéro et les remboursements pour chaque type de contrat :
+
+Numéro de soin   Catégorie de soin          A             B            C           D
+0                  Massothérapie           25%       50% max 40$      90%      100% max 85$
+100                Ostéopathie             25%       50% max 50$      90%      100% max 75$
+200          Psychologie individuelle      25%       100% max 70$     90%      100% max 100$
+[300..399]         Soins dentaires          0%            50%         90%          100%
+400          Naturopathie, acuponcture      0%             0%         90%       100% max 65$
+500                Chiropratie             25%        50% max 50$     90%       100% max 75$
+600                Physiothérapie          40%            100%        90%       100% max 100$
+700          Orthophonie, ergothérapie      0%             70%        90%       100% max 90$

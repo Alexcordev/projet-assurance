@@ -1,0 +1,13 @@
+Commentaires --> Votre approche face aux
+                 commentaires doit respecter le chapitre 4 du livre Coder proprement.
+
+
+Méthodes --> Ne pas dépasser 10 lignes de code et chaque méthode devrait respecter
+le "Principe de responsabilité unique" décrit dans le chapitre 3 du livre Coder proprement.
+
+
+Tests --> Vous devez rédiger suffisamment de «bons» tests unitaires afin d'acquérir une couverture de
+tests d'au moins 40% sur tout votre projet. Vos tests doivent suivre les règles vues en classe et le
+code de vos tests doit également être propre.
+
+Dates --> Toutes les dates doivent être spécifié en format ISO 8601 (AAAA-MM-JJ).

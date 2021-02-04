@@ -1,0 +1,27 @@
+Voici également quelques validations à effectuer sur les données d'entrée :
+• Le numéro de client doit obligatoirement être composé de 6 chiffres, aucun autre caractère que
+des chiffres ne doit se retrouver dans le numéro de client.
+
+• Le contrat doit être une des quatre lettres suivantes : A, B, C, D. La lettre doit toujours être en
+majuscule.
+
+• L'application recevra toutes les réclamations d'un client pour un mois dans le même document
+JSON, le mois est spécifié dans le champs mois sous le format AAAA-MM.
+
+• Il faut vérifier que chacune des réclamations est bel et bien faite pour le mois qui est traité. Un
+soin fait le 2 février 2021 ne doit pas être considéré dans une feuille de janvier 2021.
+
+• Le signe de dollar ($) est toujours présent à la fin d'un montant.
+
+• Tous les montants doivent supporter le point «.» et la virgule «,» pour délimiter les dollars et
+les cents dans le fichier d'entrée. Donc, peu importe si le montant provenant du fichier d'entrée
+utilise un point ou une virgule, ça devrait fonctionner. Par contre, le fichier de sortie ne doit
+toujours contenir que des points pour délimiter les dollars et les cents.
+
+• Le numéro de soin doit être valide selon le tableau des soins.
+
+Les données d'entrée doivent respecter toutes ces règles pour être considérées valides. Si les données
+d'entrée ne sont pas valides, l'application devra générer le fichier de sortie suivant :
+{
+ "message": "Données invalides"
+}
